@@ -17,4 +17,4 @@ class Solution:
             else:
                 s.append(a)
 
-        return s  
+        return s
