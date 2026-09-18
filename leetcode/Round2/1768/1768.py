@@ -17,3 +17,4 @@ class Solution:
                 res+=word2[c]
                 c+=1
         return res
+    
