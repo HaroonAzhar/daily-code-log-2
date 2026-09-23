@@ -1,1 +1,5 @@
 # 58. Length of Last Word
+class Solution:
+    def lengthOfLastWord(self, s: str) -> int:
+        arr = s.strip().split(" ")
+        return len(arr[-1])
